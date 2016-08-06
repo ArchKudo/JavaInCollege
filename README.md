@@ -9,7 +9,7 @@
 	
 ## 2. Decision making in Java(if-else, switch)
 	1. Write a Java program for finding Grade using switch statement.(See Programs/findGrade.java)
-	2. Write a Java program for recognising vowels using switch statement.
+	2. Write a Java program for recognising vowels using switch statement. (See Programs/recogniseVowels.java)
 	3. Write a Java program for finding maximum of 3 nos using if-else statement.
 	4. Write a Java program to check whether leap year or not.
 	5. Write a Java program to find how many even/odd numbers are present in a given array.

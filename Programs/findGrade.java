@@ -1,5 +1,7 @@
 /**
- * @brief 
+ * @brief Write a Java program for finding Grade using switch statement.
+ * @note Practical No. 002
+ * @author ArchKudo
  */
 import java.util.Scanner; /* For Scanner Class */
 class findGrade {
