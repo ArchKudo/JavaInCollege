@@ -1,11 +1,11 @@
 # JavaInCollege
 
 ## 1. Introduction to Java
-	1. [Write a Java program to print Hello World.](Programs/aCertainLie.java)
-	2. [Write a Java program to print SquareRoot of a given number.](Programs/getSquareroot.java)
-	3. [Write a Java program to print commandline arguments.](Programs/commandLineArguments.java)
-	4. [Write a Java program to get area of a room using a class.](Programs/calculateRoomArea.java)
-	5. Write a Java program to check whether a number is +ve, -ve or 0.
+	1. Write a Java program to print Hello World.(See Programs/aCertainLie.java)
+	2. Write a Java program to print SquareRoot of a given number.(See Programs/getSquareroot.java)
+	3. Write a Java program to print commandline arguments.(See Programs/commandLineArguments.java)
+	4. Write a Java program to get area of a room using a class.(See Programs/calculateRoomArea.java)
+	5. Write a Java program to check whether a number is +ve, -ve or 0.(See Programs/checkNumberSign.java)
 	
 ## 2. Decision making in Java(if-else, switch)
 	1. Write a Java program for finding Grade using switch statment.
