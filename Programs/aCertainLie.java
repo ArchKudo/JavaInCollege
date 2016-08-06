@@ -1,6 +1,5 @@
 /**
- * @brief Program No. 001.
- * WAJP to print a sentence.
+ * @brief Write a Java Program to print a lie.
  * @note Practical No. 001.
  * @author ArchKudo
  */
