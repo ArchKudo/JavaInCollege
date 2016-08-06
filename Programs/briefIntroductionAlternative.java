@@ -1,7 +1,6 @@
 /**
- * @brief Program No. 002. 
- * WAJP to print some statments (Alternative).
- * @note Practical No. 001.
+ * @brief Write a Java program to print Hello World. (Alternative) 
+ * @note Practical No. 001
  * @author ArchKudo
  */
 class briefIntroduction {
