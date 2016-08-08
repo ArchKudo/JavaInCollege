@@ -5,7 +5,7 @@
  * @author ArchKudo
  */
 import java.lang.Math; /* Needed for sqrt() function */
-class getSquareroot {
+class GetSquareroot {
 	public static void main(String args[]) {
 		double x = 25;
 		double y = Math.sqrt(x);

@@ -3,7 +3,7 @@
  * @note Practical No. 001 
  * @author ArchKudo
  */
-class commandLineArguments {
+class CommandLineArguments {
 	public static void main(String args[]) {
 		int i = 0;
 		int countOfArguments = args.length;

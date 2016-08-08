@@ -1,17 +1,17 @@
 # JavaInCollege
 
 ## 1. Introduction to Java
-	1. Write a Java program to print Hello World.(See Programs/briefIntroduction.java)
-	2. Write a Java program to print SquareRoot of a given number.(See Programs/getSquareroot.java)
-	3. Write a Java program to print commandline arguments.(See Programs/commandLineArguments.java)
-	4. Write a Java program to get area of a room using a class.(See Programs/calculateRoomArea.java)
-	5. Write a Java program to check whether a number is +ve, -ve or 0.(See Programs/checkNumberSign.java)
+	1. Write a Java program to print Hello World.(See Programs/BriefIntroduction.java)
+	2. Write a Java program to print SquareRoot of a given number.(See Programs/GetSquareroot.java)
+	3. Write a Java program to print commandline arguments.(See Programs/CommandLineArguments.java)
+	4. Write a Java program to get area of a room using a class.(See Programs/CalculateRoomArea.java)
+	5. Write a Java program to check whether a number is +ve, -ve or 0.(See Programs/CheckNumberSign.java)
 	
 ## 2. Decision making in Java(if-else, switch)
-	1. Write a Java program for finding Grade using switch statement.(See Programs/findGrade.java)
-	2. Write a Java program for recognising vowels using switch statement. (See Programs/recogniseVowels.java)
-	3. Write a Java program for finding maximum of 3 nos using if-else statement.
-	4. Write a Java program to check whether leap year or not.
+	1. Write a Java program for finding Grade using switch statement.(See Programs/FindGrade.java)
+	2. Write a Java program for recognising vowels using switch statement.(See Programs/RecogniseVowels.java)
+	3. Write a Java program for finding maximum of 3 nos using if-else statement.(See Programs/GreatestOfThree.java)
+	4. Write a Java program to check whether leap year or not.(See Programs/WhetherLeapYear.java)
 	5. Write a Java program to find how many even/odd numbers are present in a given array.
 	
 ## 3. Loops and Control statements in java

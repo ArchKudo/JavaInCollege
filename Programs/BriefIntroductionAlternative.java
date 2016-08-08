@@ -3,7 +3,7 @@
  * @note Practical No. 001
  * @author ArchKudo
  */
-class briefIntroduction {
+class BriefIntroductionAlternative {
 	public static void main(String args[]) {
 		System.out.println("Hello, World!" +
 							"\n" + 

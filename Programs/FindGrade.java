@@ -4,7 +4,7 @@
  * @author ArchKudo
  */
 import java.util.Scanner; /* For Scanner Class */
-class findGrade {
+class FindGrade {
 	public static void main(String args[]) {
 		int marksObtained = 0, numberOfSubjects, averageOfMarks;
 

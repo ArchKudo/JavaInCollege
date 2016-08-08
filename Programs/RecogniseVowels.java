@@ -5,7 +5,7 @@
  */
 
 import java.util.Scanner;
-class recogniseVowels {
+class RecogniseVowels {
 	public static void main(String args[]) {
 		String givenSentence;
 		Scanner getInput = new Scanner(System.in);
