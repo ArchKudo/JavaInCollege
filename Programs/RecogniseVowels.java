@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 class RecogniseVowels {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		String givenSentence;
 		Scanner getInput = new Scanner(System.in);
 		System.out.println("Enter a sentence: ");

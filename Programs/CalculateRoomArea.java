@@ -4,7 +4,7 @@
  * @author  ArchKudo
  */
 class CalculateRoomArea {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Room aSpaciousRoom = new Room(120.0, 200.0);
 		Room aCompactRoom = new Room(10.0, 10.0);
 		double areaOfSpaciousRoom = aSpaciousRoom.getArea();

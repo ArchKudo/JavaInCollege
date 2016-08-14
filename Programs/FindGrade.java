@@ -5,7 +5,7 @@
  */
 import java.util.Scanner; /* For Scanner Class */
 class FindGrade {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		int marksObtained = 0, numberOfSubjects, averageOfMarks;
 
 		System.out.println("Enter the number of subjects: ");
@@ -45,7 +45,7 @@ class FindGrade {
 			case 5:
 				System.out.println("You got a P.");
 				break;
-			default: 
+			default:
 				System.out.println("Sorry, You got a F.");
 				break;
 		}

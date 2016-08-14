@@ -6,9 +6,9 @@
  */
 import java.lang.Math; /* Needed for sqrt() function */
 class GetSquareroot {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		double x = 25;
 		double y = Math.sqrt(x);
-		System.out.println("The squareroot of " + x + " is " + y);	
+		System.out.println("The squareroot of " + x + " is " + y);
 	}
 }

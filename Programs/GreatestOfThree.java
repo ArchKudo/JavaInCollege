@@ -1,8 +1,8 @@
 class GreatestOfThree {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		int numberOne = Integer.parseInt(args[0]),
 			numberTwo = Integer.parseInt(args[1]),
-			numberThree = Integer.parseInt(args[2]), 
+			numberThree = Integer.parseInt(args[2]),
 			greatestNumber = 0;
 
 		if (numberOne > numberTwo) {

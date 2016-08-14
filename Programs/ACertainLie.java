@@ -4,7 +4,7 @@
  * @author ArchKudo
  */
 class ACertainLie {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		System.out.println("Java is better than C.");
 	}
 }

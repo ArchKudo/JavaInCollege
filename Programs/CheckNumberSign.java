@@ -4,7 +4,7 @@
  * @author ArchKudo
  */
 class CheckNumberSign {
-	public static void main(String args[]) {
+	public static void main(String[] args)
 		String numberString = args[0];
 		int number = Integer.parseInt(numberString); /* Convert String to Integer using parseInt() */
 		if (number > 0) {
