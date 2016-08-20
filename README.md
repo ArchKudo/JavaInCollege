@@ -55,17 +55,17 @@
 2. How to compile?
 	(Assuming you have above directory structure)
 
-	1. For Windows:
+	1. For Windows:  
 
-	`C:\> cd Projects\Java\JavaInCollege\Programs\`
-	`C:\Projects\Java\JavaInCollege\Programs\> javac -d ..\bin [ProgramName].java`
-	`C:\Projects\Java\JavaInCollege\Programs\> java -cp ..\bin [ProgramName]`
+	`C:\> cd Projects\Java\JavaInCollege\Programs\`  
+	`C:\Projects\Java\JavaInCollege\Programs\> javac -d ..\bin [ProgramName].java`  
+	`C:\Projects\Java\JavaInCollege\Programs\> java -cp ..\bin [ProgramName]`  
 
-	2. For *nix:
+	2. For *nix:  
 
-	`$ cd Project/Java/JavaInCollege/Programs`
-	`$ javac -d ../bin [ProgramName].java`
-	`$ java -cp ../bin [ProgramName]`
+	`$ cd Project/Java/JavaInCollege/Programs`   
+	`$ javac -d ../bin [ProgramName].java`  
+	`$ java -cp ../bin [ProgramName]`  
 
 
 
