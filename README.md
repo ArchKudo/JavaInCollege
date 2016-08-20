@@ -47,12 +47,41 @@
 
 1. Directory Structure?  
 	```
-	Java  
-		|-JavaInCollege  
-			|- Programs (Source Files for all programs)  
-			|- bin 		(Store all the binaries here)  
-			|- README	(Practicals listed here)  
-			^  
+	.
+	├── bin
+	│   ├── ACertainLie.class
+	│   ├── calculateRoomArea.class
+	│   ├── checkNumberSign.class
+	│   ├── commandLineArguments.class
+	│   ├── DrawPatterns.class
+	│   ├── evenOddInArray.class
+	│   ├── EvenOddInArray.class
+	│   ├── findGrade.class
+	│   ├── greatestOfThree.class
+	│   ├── NumberArray.class
+	│   ├── recogniseVowels.class
+	│   ├── Room.class
+	│   ├── whetherLeapYear.class
+	│   ├── WhetherPerfectSquare.class
+	│   └── WhetherSquare.class
+	├── Programs
+	│   ├── ACertainLie.java
+	│   ├── BriefIntroductionAlternative.java
+	│   ├── BriefIntroduction.java
+	│   ├── CalculateRoomArea.java
+	│   ├── CheckNumberSign.java
+	│   ├── CommandLineArguments.java
+	│   ├── DrawPatterns.java
+	│   ├── EvenOddInArray.java
+	│   ├── FindGrade.java
+	│   ├── GetSquarerootAlternative.java
+	│   ├── GetSquareroot.java
+	│   ├── GreatestOfThree.java
+	│   ├── RecogniseVowels.java
+	│   ├── WhetherLeapYear.java
+	│   └── WhetherPerfectSquare.java
+	└── README.md
+
 	```
 2. How to compile?  
 	(Assuming you have above directory structure)  
