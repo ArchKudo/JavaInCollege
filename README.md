@@ -43,7 +43,7 @@
 
 ## 10. Applets in Java
 
-FAQ
+## FAQ
 
 1. Directory Structure?
 	Java
@@ -56,11 +56,13 @@ FAQ
 	(Assuming you have above directory structure)
 
 	1. For Windows:
+
 	`C:\> cd Projects\Java\JavaInCollege\Programs\`
 	`C:\Projects\Java\JavaInCollege\Programs\> javac -d ..\bin [ProgramName].java`
 	`C:\Projects\Java\JavaInCollege\Programs\> java -cp ..\bin [ProgramName]`
 
 	2. For *nix:
+
 	`$ cd Project/Java/JavaInCollege/Programs`
 	`$ javac -d ../bin [ProgramName].java`
 	`$ java -cp ../bin [ProgramName]`
