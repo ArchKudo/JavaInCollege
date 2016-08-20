@@ -16,7 +16,7 @@
 
 ## 3. Loops and Control statements in java
 	1. Write a Java program to check whether a number is a perfect square or not.(See Programs/WhetherPerfectSquare.java)
-	2. Write a Java program to draw the pattern:
+	2. Write a Java program to draw the following patterns:(See Programs/DrawPatterns.java)
 		1.	0
 			10
 			010
