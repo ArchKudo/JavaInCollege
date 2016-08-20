@@ -12,10 +12,10 @@
 	2. Write a Java program for recognising vowels using switch statement.(See Programs/RecogniseVowels.java)
 	3. Write a Java program for finding maximum of 3 nos using if-else statement.(See Programs/GreatestOfThree.java)
 	4. Write a Java program to check whether leap year or not.(See Programs/WhetherLeapYear.java)
-	5. Write a Java program to find how many even/odd numbers are present in a given array. (See Programs/EvenOddInArray.java)
+	5. Write a Java program to find how many even/odd numbers are present in a given array.(See Programs/EvenOddInArray.java)
 
 ## 3. Loops and Control statements in java
-	1. Write a Java program to check whether a number is a square or not.
+	1. Write a Java program to check whether a number is a perfect square or not.(See Programs/WhetherPerfectSquare.java)
 	2. Write a Java program to draw the pattern:
 		1.	0
 			10
@@ -42,5 +42,29 @@
 ## 9. Multi-threading in Java
 
 ## 10. Applets in Java
+
+FAQ
+
+1. Directory Structure?
+	Java
+		|-JavaInCollege
+			|- Programs (Source Files for all programs)
+			|- bin 		(Store all the binaries here)
+			|- README	(Practicals listed here)
+			^
+2. How to compile?
+	(Assuming you have above directory structure)
+
+	1. For Windows:
+	`C:\> cd Projects\Java\JavaInCollege\Programs\`
+	`C:\Projects\Java\JavaInCollege\Programs\> javac -d ..\bin [ProgramName].java`
+	`C:\Projects\Java\JavaInCollege\Programs\> java -cp ..\bin [ProgramName]`
+
+	2. For *nix:
+	`$ cd Project/Java/JavaInCollege/Programs`
+	`$ javac -d ../bin [ProgramName].java`
+	`$ java -cp ../bin [ProgramName]`
+
+
 
 
