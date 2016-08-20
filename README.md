@@ -45,15 +45,15 @@
 
 ## FAQ
 
-1. Directory Structure?
-	Java
-		|-JavaInCollege
-			|- Programs (Source Files for all programs)
-			|- bin 		(Store all the binaries here)
-			|- README	(Practicals listed here)
-			^
-2. How to compile?
-	(Assuming you have above directory structure)
+1. Directory Structure?  
+	Java  
+		|-JavaInCollege  
+			|- Programs (Source Files for all programs)  
+			|- bin 		(Store all the binaries here)  
+			|- README	(Practicals listed here)  
+			^  
+2. How to compile?  
+	(Assuming you have above directory structure)  
 
 	1. For Windows:  
 
