@@ -98,6 +98,3 @@
 	$ javac -d ../bin [ProgramName].java  
 	$ java -cp ../bin [ProgramName]
 	```
-
-
-
