@@ -49,21 +49,6 @@
 	```
 	.
 	├── bin
-	│   ├── ACertainLie.class
-	│   ├── calculateRoomArea.class
-	│   ├── checkNumberSign.class
-	│   ├── commandLineArguments.class
-	│   ├── DrawPatterns.class
-	│   ├── evenOddInArray.class
-	│   ├── EvenOddInArray.class
-	│   ├── findGrade.class
-	│   ├── greatestOfThree.class
-	│   ├── NumberArray.class
-	│   ├── recogniseVowels.class
-	│   ├── Room.class
-	│   ├── whetherLeapYear.class
-	│   ├── WhetherPerfectSquare.class
-	│   └── WhetherSquare.class
 	├── Programs
 	│   ├── ACertainLie.java
 	│   ├── BriefIntroductionAlternative.java
@@ -78,10 +63,11 @@
 	│   ├── GetSquareroot.java
 	│   ├── GreatestOfThree.java
 	│   ├── RecogniseVowels.java
+	│   ├── ReverseInt.java
 	│   ├── WhetherLeapYear.java
-	│   └── WhetherPerfectSquare.java
+	│   ├── WhetherPerfectSquare.java
+	│   └── WhetherPrime.java
 	└── README.md
-
 	```
 2. How to compile?  
 	(Assuming you have above directory structure)  
