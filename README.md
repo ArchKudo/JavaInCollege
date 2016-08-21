@@ -48,26 +48,28 @@
 1. Directory Structure?  
 	```
 	.
-	├── bin
-	├── Programs
-	│   ├── ACertainLie.java
-	│   ├── BriefIntroductionAlternative.java
-	│   ├── BriefIntroduction.java
-	│   ├── CalculateRoomArea.java
-	│   ├── CheckNumberSign.java
-	│   ├── CommandLineArguments.java
-	│   ├── DrawPatterns.java
-	│   ├── EvenOddInArray.java
-	│   ├── FindGrade.java
-	│   ├── GetSquarerootAlternative.java
-	│   ├── GetSquareroot.java
-	│   ├── GreatestOfThree.java
-	│   ├── RecogniseVowels.java
-	│   ├── ReverseInt.java
-	│   ├── WhetherLeapYear.java
-	│   ├── WhetherPerfectSquare.java
-	│   └── WhetherPrime.java
-	└── README.md
+	├── bin  
+	├── Programs  
+	│   ├── ACertainLie.java  
+	│   ├── BriefIntroductionAlternative.java  
+	│   ├── BriefIntroduction.java  
+	│   ├── CalculateRoomArea.java  
+	│   ├── CheckNumberSign.java  
+	│   ├── CommandLineArguments.java  
+	│   ├── DrawPatterns.java  
+	│   ├── EvenOddInArray.java  
+	│   ├── FindGrade.java  
+	│   ├── GetSquarerootAlternative.java  
+	│   ├── GetSquareroot.java  
+	│   ├── GreatestOfThree.java  
+	│   ├── RecogniseVowels.java  
+	│   ├── ReverseInt.java  
+	│   ├── WhetherLeapYear.java  
+	│   ├── WhetherPerfectSquare.java  
+	│   └── WhetherPrime.java  
+	└── README.md  
+
+	
 	```
 2. How to compile?  
 	(Assuming you have above directory structure)  
