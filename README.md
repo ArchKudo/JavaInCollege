@@ -26,7 +26,7 @@
 			  ***
 			   **
 				*
-	3. Write a Java program to check whether a given number is prime or not.
+	3. Write a Java program to check whether a given number is prime or not.(See Programs/WhetherPrime.java)
 	4. Write a Java program to find the reverse of a given number.
 
 ## 4. Class implementation in Java
