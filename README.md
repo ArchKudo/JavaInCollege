@@ -30,18 +30,66 @@
 	4. Write a Java program to find the reverse of a given number.(See Programs/ReverseInt.java)
 
 ## 4. Class implementation in Java
+	1. 
 
 ## 5. Array Implementation in Java
-
+	1. Write a Java program to sort an array of integers in ascending order using bubblesort.
+	2. Write a Java program to perform matrix multiplication.
 ## 6. Strings in Java
-
+	1. Write a Java program to arrange city names in alphabetical order using strings.
+	2. Write a Java program to demonstrate various StringBuffer methods.
 ## 7. Inheritance  in Java
+	1. Write a Java program to implement the following inheritance:
+		1.       +-----+
+			 |Room |
+			 +--+--+
+			    |
+			    v
+			+---+---+
+			|Bedroom|
+			+-------+
+		And write methods to calculate the area and volume of the rooms.
+		
+		2.	+-----+
+			|Fruit|
+			+--+--+
+			   |
+			   v
+			+--+--+
+			|Mango|
+			+-----+
+		And write methods to calculate the total cost paid for mangoes bought.
 
 ## 8. Interface in Java
-
+	1. Write a Java program to implement the following multiple inheritance using interfaces:
+		1. 	+-------+
+			|Student|
+			+---+---+
+			    |
+			    |
+			    v
+			 +--+-+      +------+
+			 |Test|      |Sports|
+			 +--+-+      +------+
+			    |	        |
+			    |	        |
+		            |           |
+			    +<----------+
+		            |
+			    v
+			 +--+---+
+			 |Result|
+			 +------+
+		Display the final result of students.
 ## 9. Multi-threading in Java
+	1. Write a Java program to demonstrate run methods in thread class.
+	2. Write a Java program to create two threads to:
+		1. Calculate the sum of first five integers.
+		2. Calculate the factorial of first five integers.
 
 ## 10. Applets in Java
+	1. Create an applet to display your name.
+	2. Write a Java program to demonstrate lifecycle of an applet.
 
 ## FAQ
 
