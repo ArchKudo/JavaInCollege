@@ -10,7 +10,6 @@
  *			   **
  *				*
  * @note Practical No. 003
- * @author ArchKudo
  */
 class DrawPatterns {
 	/**
@@ -18,11 +17,11 @@ class DrawPatterns {
 	 * 1.	0
 	 *		10
 	 *		010
- 	 * 		1010
+	 * 		1010
 	 */
 	public static void patternOne() {
 		for (int i = 0; i < 4; i++) {
-			for (int j = 0; j <= i; j++) {	// Forgive me for using '<='
+			for (int j = 0; j <= i; j++) {
 				int element = (i + j) % 2;
 				System.out.print(element + "");
 			}
@@ -35,8 +34,8 @@ class DrawPatterns {
 	 *	2.	*****
 	 *		 ****
 	 *		  ***
- 	 *		   **
- 	 *			*
+	 *		   **
+	 *			*
 	 */
 	public static void patternTwo() {
 		for (int i = 0; i < 6; i++) {

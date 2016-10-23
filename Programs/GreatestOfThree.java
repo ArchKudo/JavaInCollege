@@ -1,3 +1,7 @@
+/**
+ * @brief Write a Java program for finding maximum of 3 nos using if-else statement.
+ * @note Practical No. 002
+ */
 class GreatestOfThree {
 	public static void main(String[] args) {
 		int numberOne = Integer.parseInt(args[0]),

@@ -1,7 +1,6 @@
 /**
  * @brief Write a Java program to check whether leap year or not.
  * @note Practical No. 002
- * @author ArchKudo
  */
 class WhetherLeapYear {
 	public static void main(String[] args) {

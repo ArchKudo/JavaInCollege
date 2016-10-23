@@ -1,15 +1,9 @@
 /**
  * @brief  Write a Java program to find the reverse of a given number.
  * @note Practical No. 003
- * @author ArchKudo
  */
 import java.util.Scanner;
 class ReverseInt {
-	/**
-	 * Reverses a given number.
-	 * @param  number The number to be reversed
-	 * @return        The reversed number
-	 */
 	public static int reverseNumber(int number) {
 		int reverse = 0, remainder = 0;
 		while (number != 0) {

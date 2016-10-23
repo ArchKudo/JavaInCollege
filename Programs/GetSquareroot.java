@@ -1,10 +1,8 @@
 /**
  * @brief Write a Java program to print SquareRoot of a given number.
  * @note Practical No. 001
- * @see  getSquarerootAlternative.java
- * @author ArchKudo
  */
-import java.lang.Math; /* Needed for sqrt() function */
+import java.lang.Math;
 class GetSquareroot {
 	public static void main(String[] args) {
 		double x = 25;

@@ -1,7 +1,6 @@
 /**
  * @brief Write a Java program to get area of a room using a class.
  * @note Practical No. 001
- * @author  ArchKudo
  */
 class CalculateRoomArea {
 	public static void main(String[] args) {

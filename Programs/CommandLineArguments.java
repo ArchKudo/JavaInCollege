@@ -1,7 +1,6 @@
 /**
  * @brief Write a Java program to print commandline arguments.
  * @note Practical No. 001
- * @author ArchKudo
  */
 class CommandLineArguments {
 	public static void main(String[] args) {

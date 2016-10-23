@@ -1,7 +1,6 @@
 /**
  * @brief Write a Java program to find how many even/odd numbers are present in a given array.
  * @note Practical No. 002
- * @author ArchKudo
  */
 import java.util.Scanner;
 
@@ -12,24 +11,18 @@ class EvenOddInArray {
 	 */
 	public static int [] fetchArray() {
 		System.out.println("Enter number of inputs:");
-		/* Create a new Scanner object */
 		Scanner sc = new Scanner(System.in);
-		/* Get the count of integers in inputs */
 		int countOfNumbers = sc.nextInt();
-		/* Eats any other input from the current line */
 		sc.nextLine();
-		/* Create a new int array of size countOfNumbers */
 		int [] numberArray = new int[countOfNumbers];
-		/* Save the next line */
 		System.out.println("Enter the numbers:");
 		String scannedArray = sc.nextLine();
-		/* Scanner object to scan the individual elements in the nextline() */
 		Scanner numScanner = new Scanner(scannedArray);
 		for (int i = 0; i < countOfNumbers; i++) {
 			if (numScanner.hasNextInt()) {
 				numberArray[i] = numScanner.nextInt();
 			} else {
-				System.out.println("Insufficient Number of Inputs!");
+				System.out.println("Insufficient number of inputs!");
 				break;
 			}
 		}
@@ -72,10 +65,7 @@ class EvenOddInArray {
 		int countOfEven = calculateNumberOfEven(numberArray);
 		int countOfOdd = calculateNumberOfOdd(numberArray);
 
-		System.out.println("The count of Odd numbers: " + countOfOdd +
-		                   "\n" +
-		                   "The count of Even numbers: " + countOfEven
-		                  );
+		System.out.printf("The count of Odd numbers:%d\nThe count of Even numbers: %d\n", countOfOdd, countOfEven);
 
 	}
 }

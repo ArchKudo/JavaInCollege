@@ -1,9 +1,8 @@
 /**
  * @brief Write a Java program for finding Grade using switch statement.
  * @note Practical No. 002
- * @author ArchKudo
  */
-import java.util.Scanner; /* For Scanner Class */
+import java.util.Scanner;
 class FindGrade {
 	public static void main(String[] args) {
 		int marksObtained = 0, numberOfSubjects, averageOfMarks;

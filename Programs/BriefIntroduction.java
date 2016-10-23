@@ -1,10 +1,7 @@
 /**
  * @brief Write a Java program to print Hello World.
  * Also see:
- * @see  breifIntroductionAlternative.java
- * @see  aCertainLie.java
  * @note Practical No. 001
- * @author ArchKudo
  */
 class BriefIntroduction {
 	public static void main(String[] args) {

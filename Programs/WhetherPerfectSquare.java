@@ -1,7 +1,6 @@
 /**
  * @brief Write a Java program to check whether a number is a perfect square or not.
  * @note Practical No. 003
- * @author ArchKudo
  */
 import java.lang.Math;
 import java.util.Scanner;
