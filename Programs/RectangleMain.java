@@ -13,7 +13,10 @@
  *              * print()
  * @note Practical No. 004
  */
-public class Rectangle {
+
+import java.util.Scanner;
+
+class Rectangle {
 	int height = 0;
 	int breadth = 0;
 
@@ -43,5 +46,26 @@ public class Rectangle {
 	// print
 	public void printDimensions() {
 		System.out.printf("The height of the rectangle is: %d\nThe breadth of the rectangle is: %d\nThe area of the rectangle is: %d\n", height, breadth, getArea());
+	}
+}
+
+
+class RectangleMain {
+	public static void main(String[] args) {
+		int height, breadth, area;
+		Rectangle rectangle = new Rectangle();
+
+		System.out.println("Enter Height: ");
+
+		Scanner sc = new Scanner(System.in);
+		height = sc.nextInt();
+
+		System.out.println("Enter Width:");
+		breadth = sc.nextInt();
+
+		rectangle.setData(height, breadth);
+		area = rectangle.getArea();
+
+		rectangle.printDimensions();
 	}
 }

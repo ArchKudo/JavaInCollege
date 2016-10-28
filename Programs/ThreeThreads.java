@@ -30,7 +30,7 @@ class C extends Thread {
 
 }
 
-public class Threads {
+public class ThreeThreads {
 	public static void main(String[] args) {
 		new A().start();
 		new B().start();
