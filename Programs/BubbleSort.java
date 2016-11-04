@@ -15,7 +15,7 @@ public class BubbleSort {
 		int sizeOfArray = Integer.parseInt(args[0]);
 		int[] numbers = new int[sizeOfArray];
 		for (int i = 0; i < numbers.length; i++) {
-			numbers[i] =	Integer.parseInt(args[i + 1]);
+			numbers[i] = Integer.parseInt(args[i + 1]);
 		}
 
 		bubbleSort(numbers);
