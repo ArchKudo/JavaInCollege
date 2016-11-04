@@ -26,7 +26,7 @@ public class BubbleSort {
 		System.out.printf("Unsorted array: %s\n", Arrays.toString(numbers));
 
 		for (int i = 0; i < numbers.length; i++) {
-			for (int j = numbers.length - 1; j > i; j--) {
+			for (int j = i; j < numbers.length; j++) {
 				if (numbers[j] < numbers[j - 1]) {
 					swap(numbers, j, j - 1);
 				}
